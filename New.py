@@ -1,6 +1,6 @@
 
-c='Lokesh'
-d='10'
+c='Prawen'
+d='kumar'
 print(c+d)
 
 
