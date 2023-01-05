@@ -1,7 +1,6 @@
 
-d=20
-g=10
-c=56
-print(d+g*c)
+a='lokesh'
+b='10'
+print(a+b)
 
 
