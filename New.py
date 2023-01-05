@@ -6,6 +6,7 @@ print(a+b)
 c='Prawen'
 d='kumar'
 print(c+d)
+print("hello")
 
 
 
