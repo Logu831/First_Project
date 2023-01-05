@@ -1,6 +1,6 @@
 
-a='prawin'
-b='10'
+a='Lokesh'
+b='P'
 print(a+b)
 
 
