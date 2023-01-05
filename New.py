@@ -1,4 +1,4 @@
 
-a='lokesh'
-b='kumar'
+a='prawin'
+b='kumar20'
 print(a+b)
