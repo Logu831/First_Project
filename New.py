@@ -1,6 +1,6 @@
 
-c='Lokesh'
-d='10'
-print(c+d)
+a='prawin'
+b='10'
+print(a+b)
 
 
