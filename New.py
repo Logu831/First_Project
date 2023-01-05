@@ -1,12 +1,5 @@
-
-a='Lokesh'
-b='P'
-print(a+b)
-
-c='Prawen'
-d='kumar'
-print(c+d)
-print("hello")
+b="kumar"
+print("bye")
 
 
 
